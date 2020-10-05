@@ -1,0 +1,5 @@
+experiment1,data1,10/30/2019,Flight1,exp1.csv,time(sec); longitude; latitude; altitude
+experiment2,data2,1/15/2020,Flight2,exp2.csv,time(sec); longitude; latitude; altitude
+experiment2,data3,1/17/2020,Flight3,exp3.csv,time(sec); longitude; latitude; altitude
+experiment3,data4,2/11/2020,Flight4,exp4.csv,time(sec); voltage; pressure; altitude
+experiment3,data5,2/12/2020,Flight5,exp5.csv,time(sec); voltage; pressure; altitude
